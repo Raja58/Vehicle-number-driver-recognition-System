@@ -59,10 +59,14 @@ using many positive images and negative images.
 ➢ PyTesseract is an <b>optical character recognition (OCR)</b> programme. It will be able to <b>read and recognize text in pictures</b>.
   <br>
 ➢ <i>Haar Cascade Classifiers can <b>detect multiple license plates in a single frame</b>, thus making the process easy for the user</i>.
-   <br>
+    </p>
+   <image src = "https://github.com/Raja58/ProShop-eCommerce/blob/main/Screenshot%20(611).png" align="center">
+    <br>
+  <image src = "https://github.com/Raja58/ProShop-eCommerce/blob/main/Screenshot%20(610).png" align="center">
+
    <h3 style="background-color:powderblue;">Kindly refer to this <a href="https://drive.google.com/file/d/1_qb_HntTsEx_pGqJdl5Z64b4Ukgg0ZMd/view" target="_blank" rel="noopener noreferrer"><strong>Report</strong></a> for images of how Haar Cascade Classifiers detects the plate, and the PyTesseract convert the image into a
 string and displays it in the terminal.</h3>
-</p>
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <div id="future-scope"></div>
