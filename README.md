@@ -26,6 +26,7 @@
   <ol>
     <li> <a href="#about-the-project">About The Project</a> </li>
     <li> <a href="#unique-features">Unique features</a> </li>
+    <li> <a href="#future-scope">Future Scope</a> </li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -41,7 +42,7 @@
 <p>
 ✓ Designed a <b>PyTesseract</b> vehicle licence plate number detector using <b>OpenCV</b>. <br>
 ✓ Enhanced performance by <b>76%</b> by utilizing suitable <b>Haar Cascade Classifiers</b>. <br>
-✓ Performance can be further improved by the <b>Intel® OpenVINOTM toolkit</b>.
+✓ Performance can be further improved by the <b>Intel® OpenVINO<sup>TM</sup> toolkit</b>.
 </p>
   
 
@@ -64,8 +65,17 @@ string and displays it in the terminal.</h3>
 </p>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+<div id="future-scope"></div>
+   
+## Future Scope
+<p>
+    <h3><b>Intel® OpenVINO<sup>TM</sup> toolkit enables <i>Convolutional Neural Networks (CNN)-based deep learning inference</i></b>.</h3>
+    It boost deep learning performance in <i>computer vision, automatic speech recognition, natural language processing</i> and other tasks. <br>
+    Thus, it can be utilized to increase the system’s performance.
+</p>
+
 <div id="contributing"></div>
-    
+
 <!-- CONTRIBUTING -->
 ## Contributing
 <h3>
